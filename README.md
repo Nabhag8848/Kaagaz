@@ -1,7 +1,7 @@
 # GuessNumber
 GuessNumber Console Application with Cool Console Text Colors.
 
-# Introduction: 
+## Introduction: 
 
 > - Guess Number Console application  in which the console asks the user to guess a number between two numbers (both inclusive) whose range can be altered by us,
 > validates the input against a random number and informs us whether you have guessed the number correctly or not.
